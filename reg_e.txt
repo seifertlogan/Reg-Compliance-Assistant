@@ -1,0 +1,26 @@
+REGULATION E - ELECTRONIC FUND TRANSFERS (12 CFR Part 1005)
+SAMPLE/PLACEHOLDER TEXT FOR PORTFOLIO DEMO PURPOSES ONLY.
+Replace this file with the official text downloaded from the CFPB or eCFR before using this project for anything beyond a demo.
+
+SECTION 1005.2 - DEFINITIONS
+An "electronic fund transfer" (EFT) is any transfer of funds initiated through an electronic terminal, telephone, computer, or magnetic tape that instructs a financial institution to debit or credit a consumer's account. This includes point-of-sale transfers, ATM transfers, direct deposits, direct debits, and transfers initiated by telephone.
+
+SECTION 1005.6 - LIABILITY OF CONSUMER FOR UNAUTHORIZED TRANSFERS
+A consumer's liability for unauthorized electronic fund transfers depends on how quickly the loss or theft of an access device is reported.
+- If the consumer notifies the institution within two business days after learning of the loss or theft, liability is limited to $50.
+- If the consumer fails to notify the institution within two business days, liability may be as much as $500.
+- If the consumer fails to report an unauthorized transfer within 60 days of the transmittal of the periodic statement on which the unauthorized transfer first appears, liability may be unlimited for transfers occurring after the 60-day period and before notice is given.
+
+SECTION 1005.9 - RECEIPTS AT ELECTRONIC TERMINALS AND PERIODIC STATEMENTS
+Financial institutions must make a receipt available to a consumer at the time the consumer initiates an electronic fund transfer at an electronic terminal. Institutions must also provide a periodic statement for each monthly cycle in which an electronic fund transfer has occurred, and in any case at least quarterly, showing transaction amounts, dates, and fees.
+
+SECTION 1005.10 - PREAUTHORIZED TRANSFERS
+A consumer may stop payment of a preauthorized electronic fund transfer by notifying the financial institution orally or in writing at least three business days before the scheduled date of the transfer. If the notice is oral, the institution may require written confirmation within 14 days of the oral notice.
+
+SECTION 1005.11 - PROCEDURES FOR RESOLVING ERRORS
+A financial institution must investigate an alleged error and report the results to the consumer within 10 business days of receiving an error notice. If the institution needs more time, it may take up to 45 days to complete its investigation, provided it provisionally credits the consumer's account for the disputed amount within 10 business days. For new accounts, point-of-sale transactions, and foreign-initiated transactions, the investigation period may extend to 90 days, with provisional credit still required within 10 business days (20 business days for new accounts).
+
+An "error" includes: an unauthorized electronic fund transfer, an incorrect transfer to or from the consumer's account, the omission of a transfer from a periodic statement, a computational or bookkeeping error, and the consumer's request for documentation or clarification about a transfer.
+
+SECTION 1005.17 - REQUIREMENTS FOR OVERDRAFT SERVICES
+A financial institution may not assess a fee or charge for paying an ATM or one-time debit card transaction pursuant to the institution's overdraft service unless the consumer affirmatively consents (opts in) to the service for those transaction types.

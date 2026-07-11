@@ -1,0 +1,6 @@
+chromadb==0.5.5
+anthropic==0.34.2
+streamlit==1.38.0
+sentence-transformers==3.0.1
+tiktoken==0.7.0
+python-dotenv==1.0.1

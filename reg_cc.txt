@@ -1,0 +1,18 @@
+REGULATION CC - EXPEDITED FUNDS AVAILABILITY (12 CFR Part 229)
+SAMPLE/PLACEHOLDER TEXT FOR PORTFOLIO DEMO PURPOSES ONLY.
+Replace this file with the official text downloaded from the CFPB or eCFR before using this project for anything beyond a demo.
+
+SECTION 229.10 - NEXT-DAY AVAILABILITY
+Certain deposits must be made available for withdrawal no later than the business day after the banking day of deposit. This includes cash deposits made in person to a bank employee, electronic payments, and the first $225 of a day's deposits by check.
+
+SECTION 229.12 - AVAILABILITY SCHEDULE FOR LOCAL AND NONLOCAL CHECKS
+Local checks must generally be made available for withdrawal no later than the second business day following the banking day of deposit. Nonlocal checks must generally be made available no later than the fifth business day following the banking day of deposit.
+
+SECTION 229.13 - EXCEPTIONS
+A bank may extend the standard availability schedule for certain deposits, including: new accounts open less than 30 calendar days, deposits exceeding $5,525 in one day, redeposited checks, accounts with a history of repeated overdrafts, deposits during an emergency (such as a natural disaster), and cases where the bank has reasonable cause to doubt collectibility of the check. When an exception is invoked, the bank must provide the depositor with a written notice explaining the reason and the extended availability date.
+
+SECTION 229.16 - GENERAL DISCLOSURE REQUIREMENTS
+Banks must provide consumers with a disclosure of funds availability policy at the time a new account is opened, upon request, and any time the bank's availability policy changes in a manner that reduces availability.
+
+SECTION 229.19 - MISCELLANEOUS
+If a deposit is made on a day the bank is not open, or after the bank's established cutoff hour on a business day, the bank may treat the deposit as having been made on the next business day for purposes of calculating availability.
